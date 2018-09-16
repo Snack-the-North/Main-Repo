@@ -12,8 +12,6 @@ import awscam
 import cv2
 import numpy as np
 
-
-c
 def main():
     while True:
         # Get a frame from the video stream
